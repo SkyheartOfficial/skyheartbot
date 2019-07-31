@@ -1,9 +1,9 @@
 const Discord = require("Discord.js");
 
-const client = new Discord.Client();
+var client = new Discord.Client();
 
-client.on("ready", function(){
-    client.user.setGame("Syheart•Bot | " + prefix + "help");
+client.on("ready", () =>{
+    client.user.setGame("Syheart•Bot | " + prefix + "help")
 });
 
-client.login("NjA0OTQ2NzQ3MjUyNTM5NDEy.XUFnVw.4WtQwzaFUrw2ujKXV8G3XfVkyF0");
+client.login("NjA0OTQ2NzQ3MjUyNTM5NDEy.XUFn0A.O1ZsqdC5Oq54a8FbRVF0ImZjzAo");
