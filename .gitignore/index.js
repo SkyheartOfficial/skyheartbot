@@ -6,4 +6,4 @@ client.on("ready", function(){
     client.user.setGame("Syheart•Bot | " + prefix + "help");
 });
 
-client.login("NjA0OTQ2NzQ3MjUyNTM5NDEy.XUFCSQ.bIsQtNp5kkf89088a9vhBQtB2yw");
+client.login("NjA0OTQ2NzQ3MjUyNTM5NDEy.XUFnVw.4WtQwzaFUrw2ujKXV8G3XfVkyF0");
